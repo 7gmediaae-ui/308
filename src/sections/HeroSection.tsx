@@ -106,7 +106,7 @@ export function HeroSection({ onPrimaryClick }: HeroSectionProps) {
 
           <div className="flex items-center gap-2">
             <Lock className="h-4 w-4 text-[#E6CA85]" />
-            <span>بيانات مشفّرة وآمنة</span>
+            <span>معالجة عادلة</span>
           </div>
         </motion.div>
 
